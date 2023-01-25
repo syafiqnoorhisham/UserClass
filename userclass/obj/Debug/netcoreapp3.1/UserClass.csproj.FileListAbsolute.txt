@@ -1,0 +1,14 @@
+/Users/macbookpromid2012/Projects/userclass/userclass/bin/Debug/netcoreapp3.1/UserClass
+/Users/macbookpromid2012/Projects/userclass/UserClass/bin/Debug/netcoreapp3.1/UserClass.deps.json
+/Users/macbookpromid2012/Projects/userclass/UserClass/bin/Debug/netcoreapp3.1/UserClass.runtimeconfig.json
+/Users/macbookpromid2012/Projects/userclass/UserClass/bin/Debug/netcoreapp3.1/UserClass.runtimeconfig.dev.json
+/Users/macbookpromid2012/Projects/userclass/userclass/bin/Debug/netcoreapp3.1/UserClass.dll
+/Users/macbookpromid2012/Projects/userclass/userclass/bin/Debug/netcoreapp3.1/UserClass.pdb
+/Users/macbookpromid2012/Projects/userclass/userclass/obj/Debug/netcoreapp3.1/UserClass.csproj.AssemblyReference.cache
+/Users/macbookpromid2012/Projects/userclass/userclass/obj/Debug/netcoreapp3.1/UserClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpromid2012/Projects/userclass/userclass/obj/Debug/netcoreapp3.1/UserClass.AssemblyInfoInputs.cache
+/Users/macbookpromid2012/Projects/userclass/userclass/obj/Debug/netcoreapp3.1/UserClass.AssemblyInfo.cs
+/Users/macbookpromid2012/Projects/userclass/userclass/obj/Debug/netcoreapp3.1/UserClass.csproj.CoreCompileInputs.cache
+/Users/macbookpromid2012/Projects/userclass/userclass/obj/Debug/netcoreapp3.1/UserClass.dll
+/Users/macbookpromid2012/Projects/userclass/userclass/obj/Debug/netcoreapp3.1/UserClass.pdb
+/Users/macbookpromid2012/Projects/userclass/UserClass/obj/Debug/netcoreapp3.1/UserClass.genruntimeconfig.cache
